@@ -1,6 +1,10 @@
 import socket
 from _datetime import datetime
 
+print(f"""
+█▀█ █▀█ █▀█ ▀█▀   █▀ █▀▀ ▄▀█ █▄░█ █▄░█ █▀▀ █▀█
+█▀▀ █▄█ █▀▄ ░█░   ▄█ █▄▄ █▀█ █░▀█ █░▀█ ██▄ █▀▄
+""")
 
 target = input("Enter the target IP address: ")
 
